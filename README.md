@@ -11,23 +11,19 @@ TK Hotel is a personal hotel website project developed to improve HTML and CSS s
 
 ### 🏠 Homepage
 ![Homepage](images/anasayfa.png)
-
-*Main landing page with hero section and hotel overview*
+<br></br>
 
 ### ℹ️ About Us Page
 ![About](images/hakkında.png)
-
-*Information about our hotel, history and facilities*
+<br></br>
 
 ### 📞 Contact Page
 ![Contact](images/iletişim.png)
-
-*Contact form and location information*
+<br></br>
 
 ### ⭐ Reviews Page
 ![Reviews](images/yorumlar.png)
 
-*Guest testimonials and feedback*
 
 </div>
 
