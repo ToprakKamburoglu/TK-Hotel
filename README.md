@@ -120,15 +120,15 @@ This project helps develop skills in:
 
 ## 📈 Future Enhancements
 
-- [ ] Add online booking system
-- [ ] Implement room availability checker
-- [ ] Add interactive image gallery with lightbox
-- [ ] Include virtual tour functionality
-- [ ] Add multi-language support
-- [ ] Implement guest review submission form
-- [ ] Add hotel amenities booking system
-- [ ] Include weather widget for location
-- [ ] Add social media integration
+- Add online booking system
+- Implement room availability checker
+- Add interactive image gallery with lightbox
+- Include virtual tour functionality
+- Add multi-language support
+- Implement guest review submission form
+- Add hotel amenities booking system
+- Include weather widget for location
+- Add social media integration
 
 ## 🎨 Design Elements
 
@@ -148,6 +148,6 @@ This project is for educational purposes and personal skill development.
 
 ---
 
-**Note**: This is a learning project focused on improving HTML and CSS skills in the context of hospitality industry web design. The project emphasizes responsive design principles and modern web development practices.
+**Project Focus**: This is a learning project focused on improving HTML and CSS skills in the context of hospitality industry web design. The project emphasizes responsive design principles and modern web development practices.
 
-**Contact**: For technical support or collaboration opportunities, please reach out via the contact page or email.
+For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
