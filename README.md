@@ -1,6 +1,6 @@
 # TK Hotel - Personal Hotel Website
 
-TK Hotel is a personal hotel website project developed to improve HTML and CSS skills. This project features a modern, responsive design with elegant styling and showcases luxury hotel services and amenities.
+TK Hotel is a personal hotel website project developed to improve HTML and CSS skills. This project features a modern, responsive design with elegant styling and showcases luxury hotel services.
 <br></br>
 
 <!-- Image showcase showing different pages -->
